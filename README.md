@@ -1,4 +1,6 @@
 # Project7
+##### TO-DO
+
 ##### 1.Setup a regular bi-weekly meeting at start.
 ##### 2.Define our goal and product.
 ##### 3.Agree on a product development plan.
